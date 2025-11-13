@@ -1,8 +1,1 @@
-{
-  "Name": "Tiancai",
-  "DisplayName": "CheatCompendium",
-  "Desc": "Cheat Compendium migrated from PC",
-  "Author": "WRJ",
-  "UIPackage": null,
-  "Dependencies": null
-}
+{"Name":"Tiancai","DisplayName":"作弊宝典MOD","GameVersion":1.23,"Version":2.8,"Desc":"[作者]\r\n    SpiriT.wrJ\r\n[简介]\r\n《作弊宝典》MOD 简介\n适合新手体验游戏，极大方便了前期发展。\n开局新经历，赠送大量初始物资，功法，灵宝。\n\n[color=#AE5F27][人物][/color]\n全2星六边形战士： 王大仙(男)，蒜瓣少女(女)，李逍遥(男)，赵灵儿(女)\n\n[color=#AE5F27][符咒][/color]\n内门符，外门符。外门一张外门符就起飞。内门弟子推荐1张内门+1张外门一起使用。\n\n[color=#AE5F27][丹药][/color]\n烛龙内丹，大圣丹等，默认隐藏，通过药典学习获得。新增淬体神丹，体修福音。\n\n[color=#AE5F27][区域][/color]\n沃土，深水，浅水，灵土，灵水，随意更改。\n\n[color=#AE5F27][建筑][/color]\n淘宝商城，来自异界的神秘建筑，让人忍不住想剁手。\n\n[color=#AE5F27][神通][/color]\n[color=#FF0000]《飞龙探云手》[/color]，可对NPC使用，友好的扒光对方所有装备。\n[color=#FF0000]《圣灵淬》[/color]，只可对法宝使用，一键12阶+36次天劫洗练+全方位属性提升。\n[color=#FF0000]《大保健》[/color]，顾名思义，可对NPC使用，让其脱胎换骨。\n[color=#FF0000]独立MOD飞龙探云手已上传[/color]，给需要的朋友\n获得途径：淘宝商店剁手事件 - 获得秘籍\n\n[color=#AE5F27][淘宝商城事件][/color]\n梦回游仙 - 仙四背景音乐\n聚贤大会 - 5维全10的随机人物\n解锁功法 - 已解锁则会获得随机上古秘籍\n\n[color=#AE5F27][淘宝商城物品][/color]\n霜之哀伤 - 可吸收永夜成为秘宝\n圣灵珠 - 可吸收雷暴成为秘宝\n夜皎 - 可吸收雷暴成为秘宝\n玄酒 - 可吸收尘暴成为秘宝\n","Author":"WRJ","UIPackage":null,"ID":"1820743225","Flag":339915529,"Tags":["Reincarnation","Esoterica","Elixir","Item","Equipment","Building","Function","Usability","ExcludeRealmsHeaven"],"IncreasedDesc":"应玩家要求，优化了《大保健》的逻辑，现在对重生后的人物也会生效了。","IsInsideCreat":false,"Previews":[],"ParentModInfo":null}
